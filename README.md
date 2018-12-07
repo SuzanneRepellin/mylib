@@ -8,3 +8,7 @@ The get_next_line function was made during my second month at 101, as one single
 The ft_printf functions that recreates some of the most useful features of the stdio printf was made during the third month of my curriculum.
 
 This lib is made to be improved and extended in order to be as useful as possible for my projects at school and personnal projects.
+
+Language: C
+
+Final grade: 125/100
